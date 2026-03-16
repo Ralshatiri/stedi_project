@@ -1,4 +1,5 @@
 CREATE EXTERNAL TABLE IF NOT EXISTS `stedi`.`accelerometer_landing` (
+  `timestamp` bigint,
   `user` string,
   `X` float,
   `Y` float,
