@@ -96,3 +96,28 @@ SELECT COUNT(*) FROM stedi.step_trainer_trusted;
 ```
 
 ![Step Trainer Trusted Count](screenshots/step_trainer_trusted_count.png)
+
+## Machine Learning Curated Validation
+
+This section validates that the `machine_learning_curated` table was created correctly for machine learning use.
+
+### 1. Row Count Check
+
+**SQL Query**
+```sql
+SELECT COUNT(*) FROM stedi.machine_learning_curated;
+```
+
+![Machine Learning Curated Count](screenshots/machine_learning_curated_count.png)
+
+---
+
+### 2. Column Validation
+
+**SQL Query**
+```sql
+SELECT * FROM stedi.machine_learning_curated LIMIT 5;
+
+```
+
+![Machine Learning Curated Columns](screenshots/machine_learning_curated_columns.png)
