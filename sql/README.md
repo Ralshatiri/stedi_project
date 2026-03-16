@@ -8,9 +8,9 @@ Query result showing `956` rows.
 ### Accelerometer Landing
 Query result showing `81273` rows.
 
-![Accelerometer Landing](screenshots/Query2.png)
+![Accelerometer Landing](screenshots/Query3.png)
 
 ### Step Trainer Landing
 Query result showing `28680` rows.
 
-![Step Trainer Landing](screenshots/Query3.png)
+![Step Trainer Landing](screenshots/Query4.png)
