@@ -1,9 +1,12 @@
 ## Landing Table Query
 
 ### Customer Landing
-Query result showing `956` rows.
+- Query result showing `956` rows.
 
-![Customer Landing](screenshots/Query1.png)
+    ![Customer Landing](screenshots/Query1.png)
+- Query result that  blank values exist.
+    ![Customer Landing](screenshots/Query2.png)
+
 
 ### Accelerometer Landing
 Query result showing `81273` rows.
