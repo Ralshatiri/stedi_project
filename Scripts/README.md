@@ -83,3 +83,16 @@ SELECT * FROM stedi.customers_curated LIMIT 5;
 ```
 
 ![Customers Curated Columns](screenshots/customers_curated_columns.png)
+
+## Step Trainer Trusted Validation
+
+This section validates that the `step_trainer_trusted` table was created successfully.
+
+### 1. Row Count Check
+
+**SQL Query**
+```sql
+SELECT COUNT(*) FROM stedi.step_trainer_trusted;
+```
+
+![Step Trainer Trusted Count](screenshots/step_trainer_trusted_count.png)
